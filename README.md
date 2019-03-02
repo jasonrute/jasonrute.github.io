@@ -1,6 +1,6 @@
 # Jason Rute
 
-<img src="https://avatars2.githubusercontent.com/u/13991247?s=460&v=4" alt="Jason Rute" width="200"/>
+<img src="https://avatars2.githubusercontent.com/u/13991247?s=460&v=4" alt="Jason Rute" height="400"/>
 
 ![Jason Rute](https://avatars2.githubusercontent.com/u/13991247?s=460&v=4)
 
