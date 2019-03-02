@@ -1,5 +1,7 @@
 # Jason Rute
 
+<img src="https://avatars2.githubusercontent.com/u/13991247?s=460&v=4" alt="Jason Rute" width="200"/>
+
 ![Jason Rute](https://avatars2.githubusercontent.com/u/13991247?s=460&v=4)
 
 I am a data scientist and former mathematician, currently at CiBO Technologies.  My interests include machine learning, neural networks and deep learning, bayesian methods, functional programming, and more.
