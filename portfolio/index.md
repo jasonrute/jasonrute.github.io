@@ -22,7 +22,7 @@ See [here](https://github.com/jasonrute/puzzle_cube) for more.
 
 ## Training a neural network to play a racing game
 
-<a href="https://github.com/jasonrute/csb_neural_network"><img src="https://github.com/jasonrute/csb_neural_network/blob/master/bot_nn_genetic.gif" alt="Training a neural network to play a racing game" height="300"/></a>
+<a href="https://github.com/jasonrute/csb_neural_network"><img src="bot_nn_genetic.gif" alt="Training a neural network to play a racing game" height="300"/></a>
 
 In [Coders Strike Back](https://www.codingame.com/multiplayer/bot-programming/coders-strike-back) one programs a bot to race through an open course, touching each checkpoint in order.  Using reinforcement learning I have trained a bot to be able to quickly race through the course even after being knocked around by the other bots.
 
