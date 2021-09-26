@@ -2,6 +2,10 @@
 
 Here are some cool things I have done.
 
+## AI for theorem proving - Lean GPT-f and Proof Artifact Co-Training
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EXpmbAfBNnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Classifying call center calls
 
 <img src="canstockphoto2706055.jpg" alt="Solving Rubik’s cube via deep reinforcement learning" height="300"/>
