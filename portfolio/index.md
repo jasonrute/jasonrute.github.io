@@ -6,7 +6,7 @@ Here are some cool things I have done.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EXpmbAfBNnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I, in collaboration with others researchers, helped develop an AI to prove mathematical theorems.
+I, in collaboration with other researchers, helped develop an AI to prove mathematical theorems.
 
 The [Lean theorem prover](https://leanprover-community.github.io) is a tool to formally verify mathematical theorems down to the axioms of mathematics.  This provides an electronic repository of mathematics, where each proof has been certified for correctness.  Developing such formal mathematical libraries are labor intensive undertakings, requiring thousands of person-hours.  
 
