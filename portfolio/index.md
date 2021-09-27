@@ -6,15 +6,15 @@ Here are some cool things I have done.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EXpmbAfBNnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I, in collaboration with other researchers, helped develop an AI to prove mathematical theorems.
+I along with other researchers developed an AI to prove mathematical theorems for the [Lean theorem prover](https://leanprover-community.github.io).
 
-The [Lean theorem prover](https://leanprover-community.github.io) is a tool to formally verify mathematical theorems down to the axioms of mathematics.  This provides an electronic repository of mathematics, where each proof has been certified for correctness.  Developing such formal mathematical libraries are labor intensive undertakings, requiring thousands of person-hours.  
+Lean is a tool to formally verify mathematical theorems down to the axioms of mathematics, providing an electronic repository of mathematics, where each proof has been certified for correctness.  Developing such formal mathematical libraries are labor intensive undertakings, requiring thousands of person-hours.  
 
 This project was two-fold.  First, we developed two machine learning datasets for Lean:
 * [jasonrute/lean_proof_recording: Proof recording for Lean 3](https://github.com/jasonrute/lean_proof_recording)
 * [jesse-michael-han/lean-step-public: Proof artifact co-training for Lean](https://github.com/jesse-michael-han/lean-step-public)
 
-Next, with, OpenAI, we trained a large language model on this data using a novel approach called Proof Artifact Co-Training.  The resulting tool, Lean GPT-f, is a practical assistant to Lean users.  Also, we show our model is capable of proving entire theorems by itself.  See the [Proof Artifact Co-training for Theorem Proving with Language Models](https://arxiv.org/abs/2102.06203) for details.
+Next, with, OpenAI, we trained a large language model on this data using a novel approach called Proof Artifact Co-Training.  The resulting tool, [Lean GPT-f](https://github.com/jesse-michael-han/lean-gptf), is a practical assistant to Lean users.  In the paper [Proof Artifact Co-training for Theorem Proving with Language Models](https://arxiv.org/abs/2102.06203) we show our model is capable of proving entire theorems by itself, reproving almost 50% of the proofs in Lean's `mathlib` library.
 
 ## Classifying call center calls
 
