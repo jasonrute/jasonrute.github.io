@@ -2,7 +2,7 @@
 
 Jason Rute
 
-Data Scientist
+AI Researcher
 
 Greater Boston Area
 
