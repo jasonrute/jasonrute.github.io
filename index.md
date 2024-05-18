@@ -6,7 +6,7 @@ I'm an AI researcher, formerly a mathematician and data scientist, currently at 
 My passion is teaching AI systems to reason, especially in mathematics.
 
 * [AI Portfolio](./portfolio/)
-<!--- * [Mathematics (my previous life)](http://www.personal.psu.edu/jmr71/) --->
 * [LinkedIn](http://www.linkedin.com/in/jason-rute)
 * [GitHub](http://github.com/jasonrute)
 * [Contact Information](./contact/)
+<!--- * [Mathematics (my previous life)](http://www.personal.psu.edu/jmr71/) --->
