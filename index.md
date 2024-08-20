@@ -7,7 +7,7 @@ My passion is teaching AI systems to reason, especially in mathematics.
 
 * [AI Portfolio](./portfolio/)
 * [LinkedIn](http://www.linkedin.com/in/jason-rute)
-* [One page resume](./Jason_Rute_Resume.pdf) and [academic-style curriculum vitae](./Jason_Rute_CV.pdf)
+* [One-page resume](./Jason_Rute_Resume.pdf) / [academic-style curriculum vitae](./Jason_Rute_CV.pdf)
 * [GitHub](http://github.com/jasonrute)
 * [Contact Information](./contact/)
 <!--- * [Mathematics (my previous life)](http://www.personal.psu.edu/jmr71/) --->
