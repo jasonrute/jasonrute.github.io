@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8: Jason Rute
+N;CHARSET=UTF-8:Rute;Jason;;;
+PHOTO;JPEG:http://example.com/photo.jpg
+ORG;CHARSET=UTF-8:IBM Research
+URL;CHARSET=UTF-8:https://jasonrute.github.io/
+URL;TYPE=linkedin:https://www.linkedin.com/in/jason-rute/
+URL;TYPE=bluesky:https://bsky.app/profile/jasonrute.bsky.social
+URL;TYPE=X:https://x.com/JasonRute
+URL;TYPE=GitHub:https://github.com/jasonrute
+NOTE;CHARSET=UTF-8:AI Researcher interested working on AI for reasoning and math
+END:VCARD
